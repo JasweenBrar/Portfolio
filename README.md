@@ -15,17 +15,11 @@ Personal Resume Website developed using
 
 
 💡 Sections :
-
 1. About me
-
 2. Projects
-
 3. Skills
-
 4. Education
-
 5. Contact Info
-
 6. Resume
 
 
